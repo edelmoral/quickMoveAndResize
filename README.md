@@ -1,7 +1,8 @@
 ## INSTALLATION
 
 * execute in this directory as regular user:
-```        $ plasmapkg --type kwinscript -i .
+```        
+$ plasmapkg --type kwinscript -i .
 ```
 * create custom shortcut with this command:
 ```
